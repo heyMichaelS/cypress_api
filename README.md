@@ -1,2 +1,2 @@
 # cypress_api
-Rpositorio de teste com cypress utilizando também o postman
+Repositorio de teste com cypress utilizando também o postman
