@@ -1,4 +1,4 @@
-Primeiropasso para rodar cypress 
+Primeiros passos para rodar cypress 
 
  npm init -y
 
