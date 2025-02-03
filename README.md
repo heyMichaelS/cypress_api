@@ -10,8 +10,8 @@ Primeiropasso para rodar cypress
 
  npx cypress run (roda sem a parte grafica)
 
-* npm instala npx executa
+npm instala npx executa
 
 empity é para string
 
-tt.oly executa somente o teste escolhido
+it.only executa somente o teste escolhido
